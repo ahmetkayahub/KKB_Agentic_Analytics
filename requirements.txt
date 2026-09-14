@@ -1,0 +1,15 @@
+pandas
+numpy
+duckdb
+pyod
+ruptures
+statsmodels
+langchain
+langgraph
+streamlit
+plotly
+beautifulsoup4
+pdfplumber
+requests
+python-dotenv
+langchain-openai
